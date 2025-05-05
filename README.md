@@ -5,7 +5,7 @@
 Ce projet simule l'infrastructure réseau de deux sites d'une entreprise connectés via un réseau WAN. Il a été réalisé à l'aide de Cisco Packet Tracer 
 
 ## 🏢 Architecture
-
+![apercu du contenu](reseau.jpg)
 - **Entreprise 1 (Siège)** :
   - Réseau local : `192.168.1.0/24`
   - Passerelle : `192.168.1.254`
